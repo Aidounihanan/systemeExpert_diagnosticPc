@@ -1,7 +1,7 @@
 [
-    {
-        "conditions": ["ecran noir","pas de bip au demarrage"],
-        "action": "probleme carte mere"
+     {
+        "conditions": ["ordinateur lent","ecran bleu"],
+        "action": "probleme memoire RAM"
     },
     {
         "conditions": ["ecran noir","bip au demarrage"],
@@ -12,7 +12,7 @@
         "action": "probleme disque dur"
     },
     {
-        "conditions": ["ordinateur lent","ecran bleu"],
-        "action": "probleme memoire RAM"
+        "conditions": ["ecran noir","pas de bip au demarrage"],
+        "action": "probleme carte mere"
     }
 ]
